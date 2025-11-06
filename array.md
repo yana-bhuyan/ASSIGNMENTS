@@ -280,3 +280,4 @@ Prints the prime numbers found in B.
 Prints all multiplication results stored in D.
 
 ## Output:
+![alt text](<Screenshot 2025-11-06 232629-1.png>)
