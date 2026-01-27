@@ -1,0 +1,2 @@
+x = "Yana"
+print(x)
