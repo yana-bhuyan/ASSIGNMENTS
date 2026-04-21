@@ -1,0 +1,8 @@
+[
+  {"amount": 250, "category": "food", "note": "Lunch"},
+  {"amount": 120, "category": "travel", "note": "Bus ticket"},
+  {"amount": 500, "category": "shopping", "note": "Clothes"},
+  {"amount": 80, "category": "food", "note": "Snacks"},
+  {"amount": 1000, "category": "rent", "note": "Room rent"},
+  {"amount": 200, "category": "entertainment", "note": "Movie"}
+]
